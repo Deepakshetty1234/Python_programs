@@ -1,2 +1,1 @@
-# Resume
-Deepak shetty resume
+This is python program folder
